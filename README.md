@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @PrekansiusGaseb a software development student at the Namibian University of science and technology in my second year
 - 👀 I’m interested in web based applications specifically front end web development
-- 🌱 I’m currently learning java,javascript,Msql,html and CSS
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me hannesgaseb123@gmail.com
+- 🌱 knowledge in java,javascript,Msql,html and CSS, currently learning react framework
+- 📫 How to reach me hannesgaseb123@gmail.com / 0817438502
 
 <!---
 PrekansiusGaseb/PrekansiusGaseb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
