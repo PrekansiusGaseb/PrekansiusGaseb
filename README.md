@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PrekansiusGaseb a software development student at the Namibian University of science and technology in my second year
+- 👋 Hi, I’m @PrekansiusGaseb a software development student at the Namibian University of science and technology in my third year
 - 👀 I’m interested in web based applications specifically front end web development
 - 🌱 knowledge in java,javascript,Msql,html and CSS, currently learning react framework
 - 📫 How to reach me hannesgaseb123@gmail.com / 0817438502
